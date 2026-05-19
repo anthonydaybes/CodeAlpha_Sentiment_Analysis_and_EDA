@@ -5,6 +5,13 @@ An end-to-end product insights project combining Exploratory Data Analysis (EDA)
 ## 📋 Project Overview
 This project uncovers patterns, public trends, and anomalies within consumer review data using an Amazon Consumer Reviews dataset (34,000+ records). The core objective is to analyze customer text reviews and validate whether calculated emotional sentiment aligns with the user's explicit star ratings.
 
+This project uncovers patterns, public trends, and anomalies within consumer review data using an Amazon Consumer Reviews dataset. The core objective is to analyze customer text reviews and validate whether calculated emotional sentiment aligns with the user's explicit star ratings.
+
+### 💾 Dataset Source
+The dataset used for this project is public and can be downloaded directly from Kaggle:
+* **Dataset Link:** [Kaggle - Consumer Reviews of Amazon Products](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products)
+* **File Used:** `1429_1.csv`
+
 ### Completed Tasks:
 * **Task 2: Exploratory Data Analysis (EDA):** Profiled dataset dimensions, handled missing values, and performed structural analysis on consumer rating distributions.
 * **Task 3: Data Visualization (Tableau Dashboard):** Created an interactive Executive Dashboard mapping out sentiment volumes and validating rating behaviors.
